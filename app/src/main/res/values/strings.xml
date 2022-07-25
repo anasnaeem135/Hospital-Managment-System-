@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Hospital Management System</string>
+    <string name="hospital_management_system">Hospital Management System</string>
+    <string name="start">Start</string>
+    <string name="choose_an_option">Choose an option</string>
+    <string name="opd">OPD</string>
+    <string name="emergency">Emergency</string>
+    <string name="log_in">Log-in</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="enter_username">Enter Username :</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="enter_password">Enter password :</string>
+    <string name="choose_an_unique_username">Choose an Unique Username</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="choose_a_strong_password">Choose a Strong Password</string>
+    <string name="re_enter_your_password">Re-enter Your Password :</string>
+    <string name="enter_password_again">Enter Password Again</string>
+    <string name="log_out">LOG-OUT</string>
+    <string name="name">Name :</string>
+    <string name="age">Age :</string>
+    <string name="blood_group">Blood Group :</string>
+    <string name="disease">Disease :</string>
+    <string name="enter_patient_name">Enter Patient Name :</string>
+    <string name="enter_the_patients_name_here">Enter patients name here</string>
+    <string name="enter_patients_age">Enter Patients Age :</string>
+    <string name="enter_patients_name_here">Enter patients name here</string>
+    <string name="enter_patients_blood_group">Enter Patients Blood Group :</string>
+    <string name="enter_patients_blood_group_here">Enter patients blood group here</string>
+    <string name="enter_patients_disease">Enter Patients Disease :</string>
+    <string name="enter_patients_disease_here">Enter patients disease here</string>
+    <string name="adding_new_patient">Adding New Patient</string>
+    <string name="add_data">Add Data</string>
+    <string name="plus">+</string>
+    <string name="deleting_patients_record">Deleting Patients Record</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="add_record">Add Record</string>
+    <string name="delete_record">Delete Record</string>
+
+</resources>
